@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AnimatedGifVB">
+</Property><Property Name="Solution File" Value="C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\AnimatedGifVB.sln">
+</Property><Property Name="User Options File" Value="C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\AnimatedGifVB.suo">
+</Property><Property Name="Date" Value="Friday, November 16, 2012">
+</Property><Property Name="Time" Value="9:42 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AnimatedGifVB.sln" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\AnimatedGifVB.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AnimatedGifVB.suo" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\AnimatedGifVB.suo">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="AnimatedGifVB.vbproj" Description="Project file successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\AnimatedGifVB.vbproj">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="AnimatedGifVB.vbproj.user" Description="Project user file successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\AnimatedGifVB.vbproj.user">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="AnimatedGifInMemoryFeatureLayer.vb" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\AnimatedGifInMemoryFeatureLayer.vb">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="TestForm.Designer.vb" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\TestForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="TestForm.vb" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\TestForm.vb">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="My Project\Settings.settings" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="TestForm.resx" Description="File successfully backed up as C:\Users\xiachao.APTHINKGEO\Desktop\issue\DesktopEditionSample_AnimatedGif_VB_100216\AnimatedGifVB\Backup\TestForm.resx">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="AnimatedGifVB.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AnimatedGifVB" Source="AnimatedGifVB.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AnimatedGifVB.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AnimatedGifVB.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AnimatedGifVB" Source="AnimatedGifVB.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
